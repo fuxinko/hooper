@@ -366,7 +366,7 @@ export default {
         return;
       }
 
-      if(this.slidesCount < 2) return;
+      if (this.slidesCount < 2) return;
 
       this.startPosition = { x: 0, y: 0 };
       this.endPosition = { x: 0, y: 0 };
